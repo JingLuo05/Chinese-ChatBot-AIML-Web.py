@@ -30,5 +30,5 @@ A Chinese Chat Robot based on AIML and Web.py. Using SVM for sentiment classific
 
 
 ### 5, Contact Information:  
-> 342018646@qq.com
-> yingtiancheng@163.com
+> 342018646@qq.com  May Luo  
+> yingtiancheng@163.com  Owen Ying  
