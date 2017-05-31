@@ -1,0 +1,29 @@
+<aiml version="1.0.1" encoding="utf-8">
+  
+  <!--category是aiml里的最小单位-->
+  <category>
+
+    <!--pattern用于match用户的输入-->
+	<!--当用户输入“load aiml b”时的回应-->
+	<pattern>LOAD AIML B</pattern>
+	
+	<!--template是对输入的回应-->
+    <template>
+	  <learn>./res/psy_chat.aiml</learn>
+	  <learn>./res/basic_chat.aiml</learn>
+	  <learn>./res/corpus.aiml</learn>
+	  <learn>./res/owen.aiml</learn>
+      <learn>./res/new_answer.aiml</learn>
+	  <!--这里还可以添加其他aiml文件-->
+	</template>
+	
+  </category>
+	
+	<category>
+		<pattern>LOAD NEWANSER</pattern>
+		<template>
+			<learn>./res/new_answer.aiml</learn>
+		</template>
+	</category>
+  
+</aiml>
