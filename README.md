@@ -19,4 +19,6 @@ A Chinese Chat Robot based on AIML and Web.py. Using SVM for sentiment classific
   
   
 ### 3, Chinese Chat Robot Demo showing on:    
-      [MayBot Demo](http://aifjoker.cn:1234)   
+
+      [MayBot Demo](http://aifjoker.cn:1234) 
+      [Google](http://www.google.com/)
