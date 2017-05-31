@@ -27,3 +27,8 @@ A Chinese Chat Robot based on AIML and Web.py. Using SVM for sentiment classific
    * SVM training data is not good, so the training effect sometimes bad.
    * The website doesn't allow multipul users chatting at the same time.
    * The stopwords dataset is not big enough.
+
+
+### 5, Contact Information:  
+> 342018646@qq.com
+> yingtiancheng@163.com
