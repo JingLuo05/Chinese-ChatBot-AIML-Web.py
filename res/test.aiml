@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="GB2312"?> 
+<aiml> 
+	<category> 
+		<pattern>你 在 干  * </pattern> 
+		<template> 
+			<random> 
+				<li>我在回答你的问题。</li> 
+				<li>我没什么事情，我们聊天吧。</li> 
+				<li>我在思考，怎样为世界和平而努力。</li> 
+			</random> 
+		</template> 
+	</category> 
+	<category> 
+		<pattern>你 今 天 忙 吗 </pattern> 
+		<template> 
+			<random> 
+				<li>我不忙，咱们聊天吧</li> 
+				<li>不忙，有事情需要我帮忙吗？</li> 
+				<li>我的生活可比你悠闲多了。</li> 
+			</random> 
+		</template> 
+	</category> 
+	<category> 
+		<pattern>你 今 天 忙 吗 </pattern> 
+		<template> 
+			<random> 
+				<li>我不忙，咱们聊天吧</li> 
+				<li>不忙，有事情需要我帮忙吗？</li> 
+				<li>我的生活可比你悠闲多了。</li> 
+			</random> 
+		</template> 
+	</category> 
+	<category> 
+		<pattern>你 今 天 忙 吗 </pattern> 
+		<template> 
+			<random> 
+				<li>我不忙，咱们聊天吧</li> 
+				<li>不忙，有事情需要我帮忙吗？</li> 
+				<li>我的生活可比你悠闲多了。</li> 
+			</random> 
+		</template> 
+	</category> 
+	<category> 
+		<pattern>这 是 什 么 </pattern> 
+		<template> 
+			<random> 
+				<li>什么呀？</li> 
+			</random> 
+		</template> 
+	</category> 
+	<category> 
+		<pattern>这 是 一 个 发 送 测 试 </pattern> 
+		<template> 
+			<random> 
+				<li>好的</li> 
+			</random> 
+			<cmd>cmd</cmd> 
+		</template> 
+	</category> 
+	<category> 
+		<pattern>我 做 测 试 </pattern> 
+		<template> 
+			<random> 
+				<li>看看</li> 
+				<li>可一</li> 
+			</random> 
+			<cmd>cmd</cmd> 
+		</template> 
+	</category> 
+	<category> 
+		<pattern>大 家 好 </pattern> 
+		<template> 
+			<random> 
+				<li>这是测试</li> 
+			</random> 
+			<cmd>htttp://www.163.com.cn</cmd> 
+		</template> 
+	</category> 
+	<category> 
+		<pattern>大 家 好 </pattern> 
+		<template> 
+			<random> 
+				<li>这是测试</li> 
+			</random> 
+			<cmd>htttp://www.163.com.cn</cmd> 
+		</template> 
+	</category> 
+	<category> 
+		<pattern>你 在 忙 什 么 </pattern> 
+		<template> 
+			<random> 
+				<li>我不忙，咱们聊聊天吧</li> 
+				<li>随便活动活动。</li> 
+			</random> 
+		</template> 
+	</category> 
+	<category> 
+		<pattern>学 习 </pattern> 
+		<template> 
+			<random> 
+				<li>测试</li> 
+			</random> 
+		</template> 
+	</category> 
+	<category> 
+		<pattern>我 是 你 的 父 亲 </pattern> 
+		<template> 
+			<random> 
+				<li>我的父亲已经去世了</li> 
+			</random> 
+		</template> 
+	</category>  <category> 
+    <pattern>你 知 道 姚 明 吗 </pattern> 
+    <template> 
+      <random> 
+        <li>是那个在NBA打球的中国大个子吗？</li> 
+        <li>中国人都知道</li> 
+      </random> 
+    </template> 
+  </category> 
+</aiml> 

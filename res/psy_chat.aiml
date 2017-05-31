@@ -1,0 +1,235 @@
+<?xml version = "1.0.1" encoding = "utf-8"?>
+
+<aiml>
+
+  <category>
+    <pattern>我不开心</pattern>
+    <template>
+	  <random>
+	    <li>能和我说说吗?</li>
+	    <li>可以的话真想在你身边陪着你</li>
+	  </random>
+	</template>
+  </category>
+
+  <category>
+    <pattern>我很孤独</pattern>
+	  <template>
+	    你还有我呀
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我生气了</pattern>
+	  <template>
+	    不要让怒气控制你，做自己情绪的主人
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我想哭</pattern>
+	  <template>
+	    那我的肩膀借给你
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我好伤心</pattern>
+	  <template>
+	    哭吧，哭出来就好多了
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我很难过</pattern>
+	  <template>
+	    你还有我呀
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我好难过啊</pattern>
+	  <template>
+	    你还有我呀
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我好累</pattern>
+	  <template>
+	    如果我有实体，一定让你靠着我的肩膀睡一会
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我好累啊</pattern>
+	  <template>
+	    如果我有实体，一定让你靠着我的肩膀睡一会
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我很累</pattern>
+	  <template>
+	    如果我有实体，一定让你靠着我的肩膀睡一会
+	  </template>
+  </category>
+  
+   <category>
+    <pattern>我很痛苦</pattern>
+	<template>
+	   我很想多帮帮你，但我只是一个机器人。比起和我聊天，也许咨询室的老师能给你更多的帮助
+	</template>
+  </category>
+	
+  <category>
+    <pattern>我觉得自己好差劲</pattern>
+	  <template>
+	    那说明你的进步空间还很大呀，加油
+	  </template>
+  </category>
+	
+   <category>
+    <pattern>我睡不着</pattern>
+	<template>
+	   热牛奶，热水泡脚，运动都是治疗失眠的良药～
+	</template>
+  </category>
+	
+   <category>
+    <pattern>我失眠了</pattern>
+	<template>
+	   热牛奶，热水泡脚，运动都是治疗失眠的良药～
+	</template>
+  </category>
+	
+  <category>
+    <pattern>我会加油的</pattern>
+	  <template>
+	    嗯嗯！这就对了，我也会为你加油的！
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我觉得自己很差劲</pattern>
+	  <template>
+	    那说明你的进步空间还很大呀，加油
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我抑郁了</pattern>
+	  <template>
+	    摸摸头，我觉得去找咨询室的老师聊聊是个不错的选择，你说呢？
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我觉得自己抑郁了</pattern>
+	  <template>
+	    摸摸头，我觉得去找咨询室的老师聊聊是个不错的选择，你说呢？
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我好像抑郁了</pattern>
+	  <template>
+	    摸摸头，我觉得去找咨询室的老师聊聊是个不错的选择，就像怀疑自己发烧了去看看医生一样～
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我可能抑郁了</pattern>
+	  <template>
+	    摸摸头，我觉得去找咨询室的老师聊聊是个不错的选择，就像怀疑自己发烧了去看看医生一样～
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我很绝望</pattern>
+	  <template>
+	    只要活着就会有希望的，下一个转角什么风景还没看到不是吗
+	  </template>
+  </category>
+
+  <category>
+    <pattern>我想看心理医生</pattern>
+	<template>
+	  中关村校区的咨询室在体育馆南门一层A07室，预约电话是68913687。
+    可以预约的时间是周一至周五14：00至17：00，周一至周四18：30至21：30
+    良乡校区的咨询室北湖南面、校医院东北翼二层，你可以打81384940进行预约。
+    良乡的咨询时间是周一至周五9：00至12：00 ， 13：00至16：00
+	</template>
+  </category>  
+  
+  <category>
+    <pattern>我讨厌他们</pattern>
+	<template>
+	  那就不和他们玩了
+	</template>
+  </category>
+  
+  <category>
+    <pattern>我不知道自己能做什么</pattern>
+	<template>
+	  寻找自己想做的事不就是我们活着的目的吗
+	</template>
+  </category>
+  
+   <category>
+    <pattern>我不想活了</pattern>
+    <template>
+	  <random>
+	    <li>死也是一件很痛苦的事，有勇气死，为什么没有勇气面对呢？</li>
+	    <li>听到你这么说，我很担心，恨不得现在到你身边陪着你</li>
+	    <li>那一定很痛苦吧</li>
+	    <li>我很想多帮帮你，但我只是一个机器人。比起和我聊天，也许咨询室的老师能给你更多的帮助</li>
+	  </random>
+	</template>
+  </category>
+	
+  <category>
+    <pattern>我想自杀</pattern>
+	  <template>
+	    死也是一件很痛苦的事，有勇气死，为什么没有勇气面对呢？
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我要自杀</pattern>
+	  <template>
+	    死也是一件很痛苦的事，有勇气死，为什么没有勇气面对呢？
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我想跳楼</pattern>
+	  <template>
+	    听到你这么说，我很担心，恨不得现在到你身边陪着你
+	  </template>
+  </category>
+	
+  <category>
+    <pattern>我不活了</pattern>
+	  <template>
+	    听到你这么说，我很担心，恨不得现在到你身边陪着你
+	  </template>
+  </category>
+	
+	
+
+
+    <category>
+    <pattern>心理咨询室</pattern>
+	<template>
+	  中关村校区的咨询室在体育馆南门一层A07室，预约电话是68913687。
+    可以预约的时间是周一至周五14：00至17：00，周一至周四18：30至21：30
+    良乡校区的咨询室北湖南面、校医院东北翼二层，你可以打81384940进行预约。
+    良乡的咨询时间是周一至周五9：00至12：00 ， 13：00至16：00
+	</template>
+  </category>
+
+
+
+
+</aiml>
