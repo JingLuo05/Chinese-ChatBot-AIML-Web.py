@@ -1,0 +1,45 @@
+$def with (answer, chat_history, form)
+
+<html>
+<head>
+    <title>Maybot</title>
+    <style>
+        body{text-align:center}
+    </style>
+
+</head>
+<body>
+
+$answer
+
+<br>
+==========Chatting History============
+$ count = 1
+$for sentence in chat_history:
+    $if count%2 is 0:
+        <br>
+            Maybot: $sentence
+        <br>
+    $else:
+        <br>
+            You: $sentence
+
+    $ count=count+1
+
+
+<div align="center">
+
+    <form name="ans" method="post" content="text/html; charset=utf-8" id="f">
+
+        $:form.render()
+        <input type="submit"  />
+    </form>
+
+</div>
+
+
+
+</body>
+
+
+</html>

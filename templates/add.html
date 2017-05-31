@@ -1,0 +1,24 @@
+$def with (question, form)
+
+<html>
+<head>
+    <title>Add Your Answer</title>
+    <style>
+        body{text-align:center}
+    </style>
+</head>
+<body>
+
+我还没有学过这个问题，你能告诉我答案嘛:
+$question
+
+<div align="center">
+    <form name="add" method="post" content="text/html; charset=utf-8">
+        $:form.render()
+        <input type="submit" />
+    </form>
+</div>
+
+
+</body>
+</html>
