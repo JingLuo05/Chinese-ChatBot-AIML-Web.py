@@ -1,5 +1,5 @@
 # Chinese-ChatBot-AIML-Web.py
-A Chinese Chat Robot based on AIML and Web.py. Using SVM for sentiment classification , AIML for chatting , web.py for buiding up a chatting website.
+A Chinese Chat Robot based on AIML and Web.py. Using SVM for sentiment classification , over 1500 AIML categories for chatting , web.py for buiding up a chatting website.
 
 ### 1, Setup the Environment:
 
